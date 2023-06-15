@@ -1,0 +1,26 @@
+robot4wd_:
+  joint_state_controller:
+    type: joint_state_controller/JointStateController
+    publish_rate: 50
+  wheel1_controller:  
+    type: velocity_controllers/JointVelocityController
+    joint: joint_1
+    pid: {p: 0.1, i: 0.01, d: 0.0}
+
+  wheel2_controller:
+    type: velocity_controllers/JointVelocityController
+    joint: joint_2
+    pid: {p: 0.1, i: 0.01, d: 0.0}
+
+  wheel3_controller:
+    type: velocity_controllers/JointVelocityController
+    joint: joint_3
+    pid: {p: 0.1, i: 0.01, d: 0.0}
+
+  wheel4_controller:
+    type: velocity_controllers/JointVelocityController
+    joint: joint_4
+    pid: {p: 0.1, i: 0.01, d: 0.0} 
+
+ 
+

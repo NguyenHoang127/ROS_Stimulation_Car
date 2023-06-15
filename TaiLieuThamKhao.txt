@@ -1,0 +1,17 @@
+ROS:
+	ROS Control			http://wiki.ros.org/ros_control
+	Gazebo:			https://classic.gazebosim.org/tutorials?tut=ros_gzplugins#RunningtheRRBotExample17
+	Writing a ROS Publisher:	https://www.youtube.com/watch?v=ujuEA_8jx70&t=209s
+	Create Publisher:		https://www.youtube.com/watch?v=uip2BbaazjU
+	Network Configuration in ROS	https://www.youtube.com/watch?v=1KOrXSEDQ3k
+	ROS & Gazebo (PhD Bui Ha Duc) https://drive.google.com/file/d/1i98Xzt45GkDahEsZj2V6iYIGFFlmotMx/view
+	ROS Control (PhD Bui Ha Duc)	https://drive.google.com/file/d/1vsrcCvXQt4-3HzOl31Fwu34vDVg81jKg/view
+
+TayCam:
+	AT Command HC05		https://www.instructables.com/AT-command-mode-of-HC-05-Bluetooth-module/
+	Communication between 2 HC05	http://arduino.vn/bai-viet/929-giao-tiep-2-board-arduino-bang-module-bluetooth
+	Altium				https://youtube.com/playlist?list=PLrnMw66MzybHfDWKNKCVMn9zJ6ksly2HK
+	
+Solidworks:
+	3D Model			https://grabcad.com/
+	Export URDF			https://www.youtube.com/watch?v=I08lO_SRBbk
